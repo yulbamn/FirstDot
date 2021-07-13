@@ -6,7 +6,7 @@ namespace FirstDot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello BlackPink!");
+            Console.WriteLine("Hello IU!");
         }
     }
 }
